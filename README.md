@@ -69,5 +69,3 @@ Claro! Vou fornecer apenas as seções para **Requisitos Funcionais** e **Requis
    - Deve haver uma estratégia de backup regular para garantir a recuperação de dados em caso de falhas ou perda de informações.
 
 ---
-
-Esses requisitos são uma base e podem ser ajustados conforme mais detalhes sobre o projeto se tornem disponíveis.
