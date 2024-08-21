@@ -69,3 +69,4 @@ Claro! Vou fornecer apenas as seções para **Requisitos Funcionais** e **Requis
    - Deve haver uma estratégia de backup regular para garantir a recuperação de dados em caso de falhas ou perda de informações.
 
 ---
+Autor: Gustavo  Viana 
